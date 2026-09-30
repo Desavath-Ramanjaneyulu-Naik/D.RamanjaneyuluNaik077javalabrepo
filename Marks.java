@@ -11,7 +11,7 @@ class Marks
 	int p=sc.nextInt();
 	System.out.print("\nCHEMISTRY:");
 	System.out.print("\nENGLISH:");
-	int c=sc.nextInt();
+	
 	int e=sc.nextInt();
 	System.out.print("\nBIOLOGY:");
 	int b=sc.nextInt();
